@@ -16,6 +16,7 @@ DOMAIN-KEYWORD,whatsapp,Proxy,force-remote-dns
 
 ## 国外网站
 DOMAIN-SUFFIX,9to5mac.com,Proxy
+DOMAIN-SUFFIX,spacex.com,Proxy
 DOMAIN-SUFFIX,abpchina.org,Proxy
 DOMAIN-SUFFIX,adblockplus.org,Proxy
 DOMAIN-SUFFIX,adobe.com,Proxy

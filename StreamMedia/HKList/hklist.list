@@ -1,3 +1,4 @@
+
 # (GlobalMedia)
 # (Music)
 # > Deezer
@@ -223,3 +224,7 @@ USER-AGENT,YouTube*,GlobalMedia
 DOMAIN-SUFFIX,googlevideo.com,GlobalMedia
 DOMAIN-SUFFIX,youtube.com,GlobalMedia
 DOMAIN,youtubei.googleapis.com,GlobalMedia
+
+## 抗 DNS 污染
+DOMAIN-KEYWORD,youtube,Proxy,force-remote-dns
+DOMAIN-SUFFIX,youtu.be,Proxy,force-remote-dns
